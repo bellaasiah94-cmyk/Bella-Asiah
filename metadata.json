@@ -1,0 +1,6 @@
+{
+  "name": "Zona Asesmen Bersama Bella Asiah",
+  "description": "Platform perancang lima perangkat asesmen terintegrasi Kurikulum Merdeka dan Kurikulum Berbasis Cinta: kisi-kisi, kartu soal, naskah soal, kunci jawaban, dan pedoman penskoran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
